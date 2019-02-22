@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE repositories SYSTEM "/dtd/repositories.dtd">
+<repositories xmlns="" version="1.0">
+  <repo status="unofficial">
+    <name><![CDATA[grimsleepless]]></name>
+    <description lang="en"><![CDATA[Grimsleepless Gentoo Overlay]]></description>
+    <homepage>https://github.com/JeffLabonte/gentoo-overlay</homepage>
+    <owner type="person">
+      <name><![CDATA[JeffLabonte]]></name>
+      <email>jeff.labonte12@gmail.com</email>
+    </owner>
+    <source type="git">git@github.com:JeffLabonte/gentoo-overlay.git</source>
+    <source type="git">https://github.com/JeffLabonte/gentoo-overlay.git</source>
+    <feed>https://github.com/JeffLabonte/gentoo-overlay/commits/maint.atom</feed>
+  </repo>
+</repositories>
